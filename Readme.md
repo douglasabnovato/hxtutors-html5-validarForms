@@ -2,8 +2,8 @@
 
 ### Easy
 
-- [ ] Construir um formulário em HTML 5 com nome e e-mail.
-- [ ] Estilizar com CSS esse formulário.
+- [x] Construir um formulário em HTML 5 com nome e e-mail.
+- [x] Estilizar com CSS esse formulário.
 
 ### Moderate
 
