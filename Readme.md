@@ -1,10 +1,13 @@
 # Validar Formulário com HTML5
 
-### Easy/Moderate/Hard
+### Easy
 
-- [ ] tarefa 1.
-- [ ] tarefa 2.
-- [ ] tarefa 3.
+- [ ] Construir um formulário em HTML 5 com nome e e-mail.
+- [ ] Estilizar com CSS esse formulário.
+
+### Moderate
+
+- [ ] Adicionar validação.
 - [ ] tarefa 4.
 - [ ] tarefa 5.
 
@@ -13,7 +16,6 @@
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## Douglas A B Novato
-:. [Medium](https://medium.com/@douglasabnovato)
+:. de [HxTutors - Validando formulários com HTML5](https://www.youtube.com/watch?v=tdTU9lCYXUg&list=WL&index=13&t=0s)
 
 >@douglasabnovato
