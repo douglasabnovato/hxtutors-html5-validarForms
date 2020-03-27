@@ -1,0 +1,43 @@
+legend{
+    box-shadow: 0 1px 16px #666;
+    -moz-box-shadow: 0 1px 16px #666;
+    -webkit-box-shadow: 0 1px 16px #666;
+    padding: 5px;
+    font: bold 15px "Trebuchet MS", Arial;
+}
+label{
+    float: left;
+    clear: both;
+    margin-top: 5px;
+}
+label span{
+    color: #333;
+    font: bold 14px "Trebuchet MS", Arial;
+    width: 70px;
+    float: left;
+}
+fieldset input[type=submit]{
+    float: left;
+    clear: both;
+    border: none;
+    background:#069;
+    color: #fff;
+    cursor: pointer;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-top: 5px;
+}
+
+fieldset label input{
+    padding: 5px;
+    width: 200px;
+}
+
+.inputs{
+    margin: 10px;
+}

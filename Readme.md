@@ -4,15 +4,12 @@
 
 - [x] Construir um formulário em HTML 5 com nome e e-mail.
 - [x] Estilizar com CSS esse formulário.
-
-### Moderate
-
-- [ ] Adicionar validação.
-- [ ] tarefa 4.
-- [ ] tarefa 5.
+- [x] Adicionar validação tag form.
+- [x] Adicionar validação atributo required.
+- [x] Adicionar validação atributo placeholder.
+- [x] Adicionar validação atributo type.
 
 ## Tecnologias :
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
