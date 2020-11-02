@@ -9,8 +9,8 @@
 
 ### O que é a aplicação
 
-- Tela de login em reactjs
-- com validação de campos usando métodos do javascript
+- Um formulário de envio com nome e e-mail
+- Com validação de campos direto no html5
 
 #### Tecnologias/ Ferramentas/ Bibliotecas
 
