@@ -33,7 +33,7 @@
 
 #### Próximo passo na aplicação
 
-- Link para o artigo da aplicação
+- Componentizar em ReactJS
 
 #### Anotações   
 
